@@ -1,4 +1,13 @@
-## Hi there 👋
+<h1 align="center">Kowsalya Here👋</h1>
+
+8 👀 I’m interested in AWS, Multicloud, Python, MySQL, Linux, DevOps
+
+8 🌱 I’m currently learning Python, AWS, Oracle Multicloud, MySQL, RDS, Docker, Kubernetes, APIs, Linux, Power-BI.
+
+Certification
+
+
+
 
 <!--
 **Kowsalya-Rathinasamy/Kowsalya-Rathinasamy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
