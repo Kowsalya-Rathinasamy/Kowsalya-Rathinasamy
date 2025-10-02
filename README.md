@@ -1,5 +1,7 @@
 <h1 align="center">Kowsalya Here👋</h1>
 
+<b>Creative professional transitioning from a design background to cloud computing, driven by a passion for technology and scalable solutions. After a career break dedicated to upskilling in cloud platforms and IT fundamentals, I am now certified in AWS and equipped with hands-on experience in deploying cloud infrastructure. Eager to contribute to innovative cloud projects and support organizations in their digital transformation journey.</b>
+
 8 👀 I’m interested in AWS, Multicloud, Python, MySQL, Linux, DevOps
 
 8 🌱 I’m currently learning Python, AWS, Oracle Multicloud, MySQL, RDS, Docker, Kubernetes, APIs, Linux, Power-BI.
