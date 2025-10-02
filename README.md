@@ -10,7 +10,7 @@
     📧 <a href="mailto:kowshi07@gmail.com">kowshi07@gmail.com</a> | 📞 +91-9976679245<br>
     🔗 <a href="https://www.linkedin.com/in/kowsalya-r77" target="_blank">LinkedIn</a> |
     💻 <a href="https://github.com/kowsalya-r77" target="_blank">GitHub</a>
-    💻 <a href="https://github.com/kowsalya-r77" target="_blank">GitHub</a>
+    💻 <a href="https://dev.to/kowsalyarathinasamy" target="_blank">DEV</a>
   </p>
 
 <h2>🎯 Career Objective</h2>
