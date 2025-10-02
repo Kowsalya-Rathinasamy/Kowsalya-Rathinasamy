@@ -15,7 +15,8 @@
 </a> 
      <a href="https://dev.to/kowsalyarathinasamy" target="_blank"><img width="30" height="30" alt="8j7kvp660rqzt99zui8e" src="https://github.com/user-attachments/assets/012b3418-3102-4738-a723-875c3005f96c" />
 </a>
-  </p>
+<a href="https://www.credly.com/users/kowsalya-r77" target="_blank"> <img width="38" height="30" alt="what_is_credly_badges_Certifier_blog_badge_example_21b4b6da3b" src="https://github.com/user-attachments/assets/7f4396cf-8f55-46a5-bb76-d157c34e76d8" />
+</p>
 
 <h2>🎯 Career Objective</h2>
 <p> Creative professional transitioning from a design background to cloud computing, driven by a passion for technology and scalable solutions. After a career break dedicated to upskilling in cloud platforms. Motivated and detail-oriented IT graduate with hands-on experience in AWS cloud services, Linux administration, and cloud deployment. I am now certified in AWS and equipped with hands-on experience in deploying cloud infrastructure. Seeking a Cloud Practitioner or Cloud Support Associate role to apply technical skills and contribute to scalable cloud solutions in a dynamic environment.</p>
