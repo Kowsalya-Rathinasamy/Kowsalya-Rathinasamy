@@ -40,7 +40,7 @@
         <a href="https://www.credly.com/badges/02f6d831-d92b-486f-8501-341c826f16b7/public_url" target="_blank">
          <img width="140" height="150" alt="blob" src="https://github.com/user-attachments/assets/9a568fc5-71d9-44c2-898c-64d20bc410df" />
         <a href="https://www.credly.com/badges/f020f5c6-ee2c-4a4c-be4a-82f364edff8b/public_url" target="_blank">
-    <img width="600" height="600" alt="aws-re-start-graduate" src="https://github.com/user-attachments/assets/a85f8736-17f1-48f8-b860-1100f57a9918" />
+    <img width="140" height="150" alt="aws-re-start-graduate" src="https://github.com/user-attachments/assets/a85f8736-17f1-48f8-b860-1100f57a9918" />
         <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=2D6D190766509EB87137A25A533DE18A1350020ABAFDF064D9F670B46E8ACB12" target="_blank">
    <img width="170" height="146" alt="OCI2025MCAOCP" src="https://github.com/user-attachments/assets/d363ef0b-ca54-4f4d-ba42-9e946a5c5775" />
 
