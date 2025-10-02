@@ -1,14 +1,4 @@
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Kowsalya R – Cloud Practitioner Resume</title>
-  <style>
-    body { font-family: Arial, sans-serif; margin: 40px; line-height: 1.6; }
-    h1, h2 { color: #2c3e50; }
-    .badge { width: 150px; }
-    .contact a { color: #2980b9; text-decoration: none; }
-  </style>
-</head>
 <body>
   <h1 align="center">Kowsalya Here👋</h1>
 
@@ -19,14 +9,20 @@
     💻 <a href="https://github.com/kowsalya-r77" target="_blank">GitHub</a>
   </p>
 
- <h2>Career Objective</h2>
-  <p> Creative professional transitioning from a design background to cloud computing, driven by a passion for technology and scalable solutions. After a career break dedicated to upskilling in cloud platforms. Motivated and detail-oriented IT graduate with hands-on experience in AWS cloud services, Linux administration, and cloud deployment. I am now certified in AWS and equipped with hands-on experience in deploying cloud infrastructure. Seeking a Cloud Practitioner or Cloud Support Associate role to apply technical skills and contribute to scalable cloud solutions in a dynamic environment.</p>
+<h2>Career Objective</h2>
+<p> Creative professional transitioning from a design background to cloud computing, driven by a passion for technology and scalable solutions. After a career break dedicated to upskilling in cloud platforms. Motivated and detail-oriented IT graduate with hands-on experience in AWS cloud services, Linux administration, and cloud deployment. I am now certified in AWS and equipped with hands-on experience in deploying cloud infrastructure. Seeking a Cloud Practitioner or Cloud Support Associate role to apply technical skills and contribute to scalable cloud solutions in a dynamic environment.</p>
+
+<h2>Education</h2>
+  <p>
+    Bachelor of Science in Information Technology<br>
+    Kongu Arts & Science College, Bharathiar University<br>
+    CGPA: 7.4 / 10
+  </p>
 
 👀 I’m interested in AWS, Multicloud, Python, MySQL, Linux, DevOps
 
-🌱 I’m currently learning Python, AWS, Oracle Multicloud, MySQL, RDS, Docker, Kubernetes, APIs, Linux, Power-BI.
-
-<h2>Certifications</h2>
+🌱 I’m currently learning Python, AWS, Oracle Multicloud, MySQL, RDS, Docker, Kubernetes, APIs, Linux, Generative AI.
+<h2>📜Certifications</h2>
   <ul>
     <li>AWS Certified Cloud Practitioner</li>
     <li>AWS Cloud Quest Cloud Practitioner</li>
@@ -36,7 +32,7 @@
   </ul>
 
   <!-- Credly Badge -->
-  <h3> Badge</h3>
+  <h3>Credly  Badge</h3>
     <a href="https://www.credly.com/badges/cd7766bb-89e8-42a2-872f-059cd9f41741/public_url" target="_blank">
     <img width="220" height="220" alt="clf02" src="https://github.com/user-attachments/assets/76f469e8-447e-45cc-8e61-838b6004ddcc" />      
   </a>
@@ -50,25 +46,18 @@
     <li><strong>Networking:</strong> TCP/IP, DNS, Load Balancing fundamentals</li>
   </ul>
 
-  <h2>Projects</h2>
+  <h2>💼Projects</h2>
   <ul>
     <li><strong>AWS 3-Tier Web Application:</strong> Deployed EC2, RDS, and S3 with IAM roles and security groups</li>
     <li><strong>Automated Backup:</strong> Used Lambda and CloudWatch to automate S3 backups</li>
   </ul>
 
-  <h2>Training</h2>
+  <h2>📚Training</h2>
   <p>
     AWS re/Start Program – Cultus Education & Services, Bangalore<br>
     Practical experience with EC2, S3, monitoring, and troubleshooting
   </p>
-
-  <h2>Education</h2>
-  <p>
-    Bachelor of Science in Information Technology<br>
-    Kongu Arts & Science College, Bharathiar University<br>
-    CGPA: 7.4 / 10
-  </p>
-
+  
   <h2>Achievements</h2>
   <ul>
     <li>Bootcamp: Cybersecurity Defence – Novitech R&D Pvt Ltd</li>
