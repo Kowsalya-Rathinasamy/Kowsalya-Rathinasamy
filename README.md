@@ -36,9 +36,8 @@
     <li>Oracle Certified Multicloud Architect Professional</li>
     <li>Azure Cloud Essentials</li>
   </ul>
-
   <!-- Credly Badge -->
-  <h3>Credly  Badge</h3>
+  <h3>Credly Badge</h3>
     <a href="https://www.credly.com/badges/cd7766bb-89e8-42a2-872f-059cd9f41741/public_url" target="_blank">
     <img width="140" height="135" alt="clf02" src="https://github.com/user-attachments/assets/76f469e8-447e-45cc-8e61-838b6004ddcc" />
        <a href="https://www.credly.com/badges/5cb2b11b-7c1d-4e01-95c9-3b25ac52984f/public_url" target="_blank">
