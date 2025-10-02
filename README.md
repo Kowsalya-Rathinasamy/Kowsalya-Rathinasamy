@@ -22,14 +22,11 @@
  <h2>Career Objective</h2>
   <p> Creative professional transitioning from a design background to cloud computing, driven by a passion for technology and scalable solutions. After a career break dedicated to upskilling in cloud platforms. Motivated and detail-oriented IT graduate with hands-on experience in AWS cloud services, Linux administration, and cloud deployment. I am now certified in AWS and equipped with hands-on experience in deploying cloud infrastructure. Seeking a Cloud Practitioner or Cloud Support Associate role to apply technical skills and contribute to scalable cloud solutions in a dynamic environment.</p>
 
-
 👀 I’m interested in AWS, Multicloud, Python, MySQL, Linux, DevOps
 
 🌱 I’m currently learning Python, AWS, Oracle Multicloud, MySQL, RDS, Docker, Kubernetes, APIs, Linux, Power-BI.
 
-
-
-  <h2>Certifications</h2>
+<h2>Certifications</h2>
   <ul>
     <li>AWS Certified Cloud Practitioner</li>
     <li>Azure Cloud Essentials</li>
@@ -39,7 +36,7 @@
   <!-- Credly Badge -->
   <h3>AWS Cloud Practitioner Badge</h3>
     <a href="https://www.credly.com/badges/cd7766bb-89e8-42a2-872f-059cd9f41741/public_url" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/6847f7f0-e6de-4c31-8c8f-2f2a5c9c7f4f/AWS-CloudPractitioner.png" alt="AWS Cloud Practitioner Badge" class="badge">
+    <img src="https://drive.google.com/file/d/1b_1y3eP45toZ7YaWh5fb2eWIWKnCFWd2/view?usp=sharing" alt="AWS Cloud Practitioner Badge" class="badge">
   </a>
 
   <h2>Technical Skills</h2>
