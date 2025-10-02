@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -39,8 +38,7 @@
 
   <!-- Credly Badge -->
   <h3>AWS Cloud Practitioner Badge</h3>
-  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="cd7766bb-89e8-42a2-872f-059cd9f41741" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-  <a href="https://www.credly.com/badges/your-badge-id" target="_blank">
+    <a href="https://www.credly.com/badges/cd7766bb-89e8-42a2-872f-059cd9f41741/public_url" target="_blank">
     <img src="https://images.credly.com/size/340x340/images/6847f7f0-e6de-4c31-8c8f-2f2a5c9c7f4f/AWS-CloudPractitioner.png" alt="AWS Cloud Practitioner Badge" class="badge">
   </a>
 
