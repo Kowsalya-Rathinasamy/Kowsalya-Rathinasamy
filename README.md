@@ -9,7 +9,8 @@
     📍 Coimbatore / Chennai / Bangalore <br>
     📧 <a href="mailto:kowshi07@gmail.com">kowshi07@gmail.com</a> | 📞 +91-9976679245<br>
     🔗 <a href="https://www.linkedin.com/in/kowsalya-r77" target="_blank">LinkedIn</a> |
-    💻 <a href="https://github.com/kowsalya-r77" target="_blank">GitHub</a>
+    💻 <a href="https://github.com/kowsalya-r77" target="_blank"><img width="10" height="10" alt="Github-desktop-logo-symbol svg" src="https://github.com/user-attachments/assets/0eb74db4-58ff-4fa6-b455-a8e112101c8e" />
+</a>
     💻 <a href="https://dev.to/kowsalyarathinasamy" target="_blank">DEV</a>
   </p>
 
@@ -27,8 +28,9 @@
     <li>AWS Certified Cloud Practitioner</li>
     <li>AWS Cloud Quest Cloud Practitioner</li>
     <li>AWS Cloud Quest Generative AI</li>    
-    <li>Azure Cloud Essentials</li>
+    <li>AWS re/Start Gradute</li>      
     <li>Oracle Certified Multicloud Architect Professional</li>
+    <li>Azure Cloud Essentials</li>
   </ul>
 
   <!-- Credly Badge -->
@@ -47,15 +49,15 @@
   </a>
   <h2>📚Training</h2>
   <p>
-    AWS re/Start Program – Cultus Education & Services, Bangalore<br>
+    AWS re/Start Gradute Program – Cultus Education & Services, Bangalore<br>
   </p>
   <h2>Technical Skills</h2>
   <ul>
     <li><strong>Cloud Platforms:</strong> AWS (EC2, S3, IAM, VPC, RDS, CloudWatch, Lambda)</li>
-    <li><strong>DevOps Tools:</strong> Git, GitHub, Docker (basic), CI/CD concepts</li>
+    <li><strong>DevOps Tools:</strong> Git, GitHub, Docker (basic), CI/CD concepts, EKS, ECS </li>
     <li><strong>Operating Systems:</strong> Linux (Ubuntu, CentOS), Windows Server</li>
-    <li><strong>Programming:</strong> Python (basic), Shell Scripting, HTML, CSS</li>
-    <li><strong>Networking:</strong> TCP/IP, DNS, Load Balancing fundamentals</li>
+    <li><strong>Programming:</strong> Python (basic), Shell Scripting, HTML, CSS,MySQL</li>
+    <li><strong>Networking:</strong> NMAP, Wireshark, TCP/IP, DNS, Load Balancing fundamentals, Route 53</li>
   </ul>
   <h2>💼Projects</h2>
   <ul>
