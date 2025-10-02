@@ -6,8 +6,7 @@
 
   <h2>Contact </h2>
   <p class="contact">
-    📍 Coimbatore / Chennai / Bangalore <br>
-    📧 <a href="mailto:kowshi07@gmail.com">kowshi07@gmail.com</a> | 📞 +91-9976679245<br>
+  📧 <a href="mailto:kowshi07@gmail.com">kowshi07@gmail.com</a> | 📞 +91-9976679245<br>
     
 <a href="https://www.linkedin.com/in/kowsalya-r77" target="_blank"><img width="30" height="30" alt="LinkedIn_logo_initials" src="https://github.com/user-attachments/assets/c86f37c8-d147-4bd5-a778-c0e0c2ff454d" /> 
  </a> 
