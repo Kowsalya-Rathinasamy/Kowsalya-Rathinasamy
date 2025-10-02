@@ -34,7 +34,15 @@
   <!-- Credly Badge -->
   <h3>Credly  Badge</h3>
     <a href="https://www.credly.com/badges/cd7766bb-89e8-42a2-872f-059cd9f41741/public_url" target="_blank">
-    <img width="220" height="220" alt="clf02" src="https://github.com/user-attachments/assets/76f469e8-447e-45cc-8e61-838b6004ddcc" />      
+    <img width="220" height="220" alt="clf02" src="https://github.com/user-attachments/assets/76f469e8-447e-45cc-8e61-838b6004ddcc" />
+       <a href="https://www.credly.com/badges/cd7766bb-89e8-42a2-872f-059cd9f41741/public_url" target="_blank">
+    <img width="220" height="220" alt="clf02" src="https://github.com/user-attachments/assets/76f469e8-447e-45cc-8e61-838b6004ddcc" />
+          <a href="https://www.credly.com/badges/cd7766bb-89e8-42a2-872f-059cd9f41741/public_url" target="_blank">
+    <img width="220" height="220" alt="clf02" src="https://github.com/user-attachments/assets/76f469e8-447e-45cc-8e61-838b6004ddcc" />
+             <a href="https://www.credly.com/badges/cd7766bb-89e8-42a2-872f-059cd9f41741/public_url" target="_blank">
+    <img width="220" height="220" alt="clf02" src="https://github.com/user-attachments/assets/76f469e8-447e-45cc-8e61-838b6004ddcc" />
+                <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=2D6D190766509EB87137A25A533DE18A1350020ABAFDF064D9F670B46E8ACB12" target="_blank">
+    <img width="220" height="220" alt="OCI2025MCAOCP" src="https://github.com/user-attachments/assets/f5f7ada1-70c3-4bbc-bb56-583cbfe84d7d" />
   </a>
   <h2>📚Training</h2>
   <p>
@@ -50,7 +58,7 @@
   </ul>
   <h2>💼Projects</h2>
   <ul>
-    <li><strong>AWS 3-Tier Web Application:</strong> Deployed EC2, RDS, and S3 with IAM roles and security groups</li>
+    <li><strong>AWS 3-Tier Web Application:</strong> Deployed VPC, EC2 (Bastion host), ELB, ASG, RDS MySQL, Dynamo DB, S3, SNS, Lambda, (Route 53-if need DNS) Using Python.</li>
     <li><strong>Automated Backup:</strong> Used Lambda and CloudWatch to automate S3 backups</li>
   </ul> 
   <h2>🏅Achievements</h2>
