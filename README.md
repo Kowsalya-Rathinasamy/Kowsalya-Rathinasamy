@@ -1,12 +1,3 @@
-<h1 align="center">Kowsalya Here👋</h1>
-
-<h2 align="center"> Creative professional transitioning from a design background to cloud computing, driven by a passion for technology and scalable solutions. After a career break dedicated to upskilling in cloud platforms. Motivated and detail-oriented IT graduate with hands-on experience in AWS cloud services, Linux administration, and cloud deployment. Seeking a Cloud Practitioner or Cloud Support Associate role to apply technical skills and contribute to scalable cloud solutions in a dynamic environment. I am now certified in AWS and equipped with hands-on experience in deploying cloud infrastructure. Eager to contribute to innovative cloud projects and support organizations in their digital transformation journey.</h2>
-
-
-👀 I’m interested in AWS, Multicloud, Python, MySQL, Linux, DevOps
-
-🌱 I’m currently learning Python, AWS, Oracle Multicloud, MySQL, RDS, Docker, Kubernetes, APIs, Linux, Power-BI.
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -20,8 +11,8 @@
   </style>
 </head>
 <body>
+  <h1 align="center">Kowsalya Here👋</h1>
 
-  <h1>Kowsalya R</h1>
   <p class="contact">
     📍 Coimbatore / Chennai<br>
     📧 <a href="mailto:kowshi07@gmail.com">kowshi07@gmail.com</a> | 📞 +91-9976679245<br>
@@ -29,10 +20,15 @@
     💻 <a href="https://github.com/kowsalya-r77" target="_blank">GitHub</a>
   </p>
 
-  <h2>Career Objective</h2>
-  <p>
-    Creative professional transitioning from a design background to cloud computing. After a career break focused on upskilling, I earned certifications and gained hands-on experience in AWS, Linux, and DevOps tools. Now seeking a Cloud Practitioner role to apply my skills and contribute to scalable cloud solutions.
-  </p>
+ <h2>Career Objective</h2>
+  <p> Creative professional transitioning from a design background to cloud computing, driven by a passion for technology and scalable solutions. After a career break dedicated to upskilling in cloud platforms. Motivated and detail-oriented IT graduate with hands-on experience in AWS cloud services, Linux administration, and cloud deployment. I am now certified in AWS and equipped with hands-on experience in deploying cloud infrastructure. Seeking a Cloud Practitioner or Cloud Support Associate role to apply technical skills and contribute to scalable cloud solutions in a dynamic environment.</p>
+
+
+👀 I’m interested in AWS, Multicloud, Python, MySQL, Linux, DevOps
+
+🌱 I’m currently learning Python, AWS, Oracle Multicloud, MySQL, RDS, Docker, Kubernetes, APIs, Linux, Power-BI.
+
+
 
   <h2>Certifications</h2>
   <ul>
