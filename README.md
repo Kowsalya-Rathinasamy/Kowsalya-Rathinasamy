@@ -1,6 +1,6 @@
 <h1 align="center">Kowsalya Here👋</h1>
 
-<b>Creative professional transitioning from a design background to cloud computing, driven by a passion for technology and scalable solutions. After a career break dedicated to upskilling in cloud platforms. Motivated and detail-oriented IT graduate with hands-on experience in AWS cloud services, Linux administration, and cloud deployment. Seeking a Cloud Practitioner or Cloud Support Associate role to apply technical skills and contribute to scalable cloud solutions in a dynamic environment. I am now certified in AWS and equipped with hands-on experience in deploying cloud infrastructure. Eager to contribute to innovative cloud projects and support organizations in their digital transformation journey.</b>
+<b>  align="center" Creative professional transitioning from a design background to cloud computing, driven by a passion for technology and scalable solutions. After a career break dedicated to upskilling in cloud platforms. Motivated and detail-oriented IT graduate with hands-on experience in AWS cloud services, Linux administration, and cloud deployment. Seeking a Cloud Practitioner or Cloud Support Associate role to apply technical skills and contribute to scalable cloud solutions in a dynamic environment. I am now certified in AWS and equipped with hands-on experience in deploying cloud infrastructure. Eager to contribute to innovative cloud projects and support organizations in their digital transformation journey.</b>
 
 8 👀 I’m interested in AWS, Multicloud, Python, MySQL, Linux, DevOps
 
