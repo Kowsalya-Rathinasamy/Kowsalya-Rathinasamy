@@ -36,8 +36,7 @@
   <!-- Credly Badge -->
   <h3>AWS Cloud Practitioner Badge</h3>
     <a href="https://www.credly.com/badges/cd7766bb-89e8-42a2-872f-059cd9f41741/public_url" target="_blank">
-    <img src="<img width="220" height="220" alt="clf02" src="https://github.com/user-attachments/assets/76f469e8-447e-45cc-8e61-838b6004ddcc" />
- class="badge">
+    <img width="220" height="220" alt="clf02" src="https://github.com/user-attachments/assets/76f469e8-447e-45cc-8e61-838b6004ddcc" />
   </a>
 
   <h2>Technical Skills</h2>
