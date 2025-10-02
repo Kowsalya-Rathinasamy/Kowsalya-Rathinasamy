@@ -8,11 +8,12 @@
   <p class="contact">
     📍 Coimbatore / Chennai / Bangalore <br>
     📧 <a href="mailto:kowshi07@gmail.com">kowshi07@gmail.com</a> | 📞 +91-9976679245<br>
+    
     🔗 <a href="https://www.linkedin.com/in/kowsalya-r77" target="_blank"><img width="30" height="30" alt="LinkedIn_logo_initials" src="https://github.com/user-attachments/assets/c86f37c8-d147-4bd5-a778-c0e0c2ff454d" />
 </a> |
-    💻 <a href="https://github.com/Kowsalya-Rathinasamy" target="_blank"><img width="30" height="30" alt="Github-desktop-logo-symbol svg" src="https://github.com/user-attachments/assets/0eb74db4-58ff-4fa6-b455-a8e112101c8e" />
-</a>
-    💻 <a href="https://dev.to/kowsalyarathinasamy" target="_blank"><img width="30" height="30" alt="8j7kvp660rqzt99zui8e" src="https://github.com/user-attachments/assets/012b3418-3102-4738-a723-875c3005f96c" />
+     <a href="https://github.com/Kowsalya-Rathinasamy" target="_blank"><img width="30" height="30" alt="Github-desktop-logo-symbol svg" src="https://github.com/user-attachments/assets/0eb74db4-58ff-4fa6-b455-a8e112101c8e" />
+</a> |
+     <a href="https://dev.to/kowsalyarathinasamy" target="_blank"><img width="30" height="30" alt="8j7kvp660rqzt99zui8e" src="https://github.com/user-attachments/assets/012b3418-3102-4738-a723-875c3005f96c" />
 </a>
   </p>
 
