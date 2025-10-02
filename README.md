@@ -1,53 +1,5 @@
-<html lang="en">
-  <head>
-  <meta charset="UTF-8">
-  <title>Kowsalya R – Cloud Practitioner Resume</title>
-  <style>
-    body {
-      font-family: 'Segoe UI', sans-serif;
-      background: #f4f6f9;
-      color: #333;
-      margin: 0;
-      padding: 40px;
-    }
-    header {
-      background: #2c3e50;
-      color: white;
-      padding: 20px;
-      border-radius: 8px;
-    }
-    h1 {
-      margin: 0;
-      font-size: 2em;
-    }
-    .contact a {
-      color: #ecf0f1;
-      text-decoration: none;
-      margin-right: 15px;
-    }
-    section {
-      background: white;
-      margin-top: 20px;
-      padding: 20px;
-      border-radius: 8px;
-      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-    }
-    h2 {
-      color: #2980b9;
-      border-bottom: 2px solid #ecf0f1;
-      padding-bottom: 5px;
-    }
-    ul {
-      padding-left: 20px;
-    }
-    .badge {
-      width: 120px;
-      margin-top: 10px;
-    }
-  </style>
-</head>
-<body>
-<body>
+<html>
+  <body>
   <h1 align="center">Kowsalya Here👋</h1>
 👀 I’m interested in AWS, Multicloud, Python, MySQL, Linux, DevOps
 🌱 I’m currently learning Python, AWS, Oracle Multicloud, MySQL, RDS, Docker, Kubernetes, APIs, Linux, Generative AI.
