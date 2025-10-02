@@ -42,7 +42,7 @@
              <a href="https://www.credly.com/badges/cd7766bb-89e8-42a2-872f-059cd9f41741/public_url" target="_blank">
     <img width="140" height="150" alt="clf02" src="https://github.com/user-attachments/assets/76f469e8-447e-45cc-8e61-838b6004ddcc" />
                 <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=2D6D190766509EB87137A25A533DE18A1350020ABAFDF064D9F670B46E8ACB12" target="_blank">
-   <img width="270" height="276" alt="OCI2025MCAOCP" src="https://github.com/user-attachments/assets/d363ef0b-ca54-4f4d-ba42-9e946a5c5775" />
+   <img width="170" height="186" alt="OCI2025MCAOCP" src="https://github.com/user-attachments/assets/d363ef0b-ca54-4f4d-ba42-9e946a5c5775" />
 
   </a>
   <h2>📚Training</h2>
