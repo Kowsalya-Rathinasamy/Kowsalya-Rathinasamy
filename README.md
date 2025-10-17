@@ -30,11 +30,12 @@
   <ul>
     <li>AWS Certified Cloud Practitioner</li>
     <li>Oracle Certified Multicloud Architect Professional</li>
+    <li>Azure Databricks Platform Architect</li>    
     <li>AWS Cloud Quest Cloud Practitioner</li>
     <li>AWS Cloud Quest Generative AI</li>    
     <li>AWS re/Start Gradute</li>      
     <li>Docker Foundation Professional Certification</li>
-    <li>DevOps Fundamental</li>
+    <li>Azure DevOps Fundamental</li>
     
   </ul>
   <!-- Credly Badge -->
@@ -49,8 +50,8 @@
          <img width="140" height="150" alt="blob" src="https://github.com/user-attachments/assets/9a568fc5-71d9-44c2-898c-64d20bc410df" />
         <a href="https://www.credly.com/badges/f020f5c6-ee2c-4a4c-be4a-82f364edff8b/public_url" target="_blank">
     <img width="140" height="150" alt="aws-re-start-graduate" src="https://github.com/user-attachments/assets/a85f8736-17f1-48f8-b860-1100f57a9918" />
-        
-
+    <a href="https://credentials.databricks.com/371f0417-eefd-4892-99cc-db9ffddc3d4e#acc.CaBkVZdY" target="_blank">
+      <img width="140" height="150" alt="azure databricks" src="https://github.com/user-attachments/assets/df5dbc33-4dc6-4296-a9bf-9a2af15675cf" />
   </a>
   <h2>📚Training</h2>
   <p>
@@ -58,7 +59,8 @@
   </p>
   <h2>Technical Skills</h2>
   <ul>
-    <li><strong>Cloud Platforms:</strong> AWS (EC2, S3, IAM, VPC, RDS, CloudWatch, Lambda)</li>
+    <li><strong>AWS Cloud Platforms:</strong> EC2, S3, IAM, VPC, RDS, CloudWatch, Lambda, CloudFormmat</li>
+    <li><strong>Azure Cloud Platforms:</strong> Databricks, </li>
     <li><strong>DevOps Tools:</strong> Git, GitHub, Docker (basic), CI/CD concepts, EKS, ECS </li>
     <li><strong>Operating Systems:</strong> Linux (Ubuntu, CentOS), Windows Server</li>
     <li><strong>Programming:</strong> Python (basic), Shell Scripting, HTML, CSS,MySQL</li>
@@ -66,7 +68,7 @@
   </ul>
   <h2>💼Projects</h2>
   <ul>
-    <li><strong>AWS 3-Tier Web Application:</strong> Deployed VPC, EC2 (Bastion host), ELB, ASG, RDS MySQL, Dynamo DB, S3, SNS, Lambda, (Route 53-if need DNS) Using Python.</li>
+    <li><strong>AWS 3-Tier Web Application:</strong> Deployed VPC, EC2 (Bastion host), ELB, ASG, RDS MySQL, Dynamo DB, S3, SNS, Lambda, CI/CD pipeline Github Action (Route 53-if need DNS) Using Python.</li>
     <li><strong>Automated Backup:</strong> Used Lambda and CloudWatch to automate S3 backups</li>
   </ul> 
   <h2>🏅Achievements</h2>
