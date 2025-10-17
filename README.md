@@ -36,6 +36,8 @@
     <li>AWS re/Start Gradute</li>      
     <li>Docker Foundation Professional Certification</li>
     <li>Azure DevOps Fundamental</li>
+    <li>ETL in Pyhton and SQL</li>
+    <li>System Administration by Microsoft and LinkedinL</li>
     
   </ul>
   <!-- Credly Badge -->
@@ -59,12 +61,12 @@
   </p>
   <h2>Technical Skills</h2>
   <ul>
-    <li><strong>AWS Cloud Platforms:</strong> EC2, S3, IAM, VPC, RDS, CloudWatch, Lambda, CloudFormmat</li>
-    <li><strong>Azure Cloud Platforms:</strong> Databricks, </li>
-    <li><strong>DevOps Tools:</strong> Git, GitHub, Docker (basic), CI/CD concepts, EKS, ECS </li>
+    <li><strong>AWS Cloud Platforms:</strong> EC2, S3, IAM, VPC, RDS, CloudWatch, Lambda, CloudFormat</li>
+    <li><strong>Azure Cloud Platforms:</strong> VM, Datafactory, Databricks, Worksation, Cloud Storage, VNet, ActiveDirectory, NSG, Cluster, LB, API Proxy</li>
+    <li><strong>DevOps Tools:</strong> Git, GitHub, Docker (basic), CI/CD concepts, EKS, ECS, Azure DevOps, Boards, Repos, pipeline, Artifacts </li>
     <li><strong>Operating Systems:</strong> Linux (Ubuntu, CentOS), Windows Server</li>
     <li><strong>Programming:</strong> Python (basic), Shell Scripting, HTML, CSS,MySQL</li>
-    <li><strong>Networking:</strong> NMAP, Wireshark, TCP/IP, DNS, Load Balancing fundamentals, Route 53</li>
+    <li><strong>Networking:</strong> NMAP, Wireshark, TCP/IP, DNS, Load Balancing, Route 53,VLans, System Admin,OSI models,IP Structure,Monitoring & Logs</li>
   </ul>
   <h2>💼Projects</h2>
   <ul>
