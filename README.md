@@ -17,7 +17,7 @@
 </p>
 
 <h2>🎯 Career Objective</h2>
-<p> Motivated IT background graduate to cloud computing, driven by a passion for technology and scalable solutions. Motivated and detail-oriented IT graduate with hands-on experience in AWS cloud services, Linux administration, and cloud deployment. I am now certified in AWS and equipped with hands-on experience in deploying cloud infrastructure. Seeking a Cloud Practitioner or Cloud Support Associate role to apply technical skills and contribute to scalable cloud solutions in a dynamic environment.</p>
+<p> Motivated and detail-oriented IT graduate with hands-on experience in AWS cloud services, Linux administration, and cloud deployment. I am now certified in AWS, ORACLE and equipped with hands-on experience in deploying cloud infrastructure. Seeking a DevOps or Cloud Support Associate role to apply technical skills and contribute to scalable cloud solutions in a dynamic environment.</p>
 
 <h2>🎓Education</h2>
   <p>
