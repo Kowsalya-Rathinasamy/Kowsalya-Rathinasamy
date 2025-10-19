@@ -1,8 +1,7 @@
 <html>
   <body>
   <h1 align="center">Kowsalya Here👋</h1>
-👀 I’m interested in AWS, Multicloud, Python, MySQL, Linux, DevOps, Networking
-🌱 I’m currently learning Python, AWS, Oracle Multicloud, MySQL, RDS, Docker, Kubernetes, APIs, Linux, Generative AI.
+☁️👀 I’m interested in Multicloud (AWS,Azure,Oracle), Python, MySQL, RDS, Docker, Kubernetes, Ansible, APIs, Linux, Generative AI, DevOps, Networking
 
   <h2>Contact </h2>
   <p>
