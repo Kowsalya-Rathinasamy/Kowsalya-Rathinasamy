@@ -1,7 +1,7 @@
 <html>
   <body>
   <h1 align="center">Kowsalya Here👋</h1>
-  <h1 align="center"> Multicloud Architect Certified in AWS,Azure,Oracle </h1>
+  <h2 align="center"> 🥇Multi-cloud Architect Certified in AWS,Azure,Oracle </h2>
 ☁️👀 I’m interested in  Python, MySQL, RDS, Docker, Kubernetes, Ansible, APIs, Linux, Generative AI, DevOps, Networking
 
   <h2>Contact </h2>
