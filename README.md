@@ -28,22 +28,23 @@
   </p>
 <h2>📜Certifications</h2>
   <ul>
-    <li>AWS Certified Cloud Practitioner</li>
-    <li>Oracle Certified Multicloud Architect Professional</li>
+    <li>AWS Certified Cloud Practitioner CLF-C02 </li>
+    <li>MS Certified Azure DevOps Engineer Expert AZ-400</li>
+    <li>Oracle cloud Infrastructure Certified Multicloud Architect Professional</li>
     <li>Azure Databricks Platform Architect</li>    
     <li>AWS Cloud Quest Cloud Practitioner</li>
     <li>AWS Cloud Quest Generative AI</li>    
     <li>AWS re/Start Gradute</li>      
     <li>Docker Foundation Professional Certification</li>
-    <li>Azure DevOps Fundamental</li>
     <li>ETL in Pyhton and SQL</li>
-    <li>System Administration by Microsoft and LinkedinL</li>
-    
+    <li>System Administration by Microsoft and LinkedinL</li>    
   </ul>
   <!-- Credly Badge -->
   <h3>Credly Badge</h3>
     <a href="https://www.credly.com/badges/cd7766bb-89e8-42a2-872f-059cd9f41741/public_url" target="_blank">
     <img width="140" height="135" alt="clf02" src="https://github.com/user-attachments/assets/76f469e8-447e-45cc-8e61-838b6004ddcc" />
+     <a href="https://learn.microsoft.com/en-us/users/kowsalyar-4631/credentials?tab=credentials-tab" target="_blank">
+      <img width="140" height="135" alt="image" src="https://github.com/user-attachments/assets/e458e84c-3915-4ba5-8265-5c2e245658de" />
       <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=2D6D190766509EB87137A25A533DE18A1350020ABAFDF064D9F670B46E8ACB12" target="_blank">
    <img width="140" height="146" alt="OCI2025MCAOCP" src="https://github.com/user-attachments/assets/d363ef0b-ca54-4f4d-ba42-9e946a5c5775" />
        <a href="https://www.credly.com/badges/5cb2b11b-7c1d-4e01-95c9-3b25ac52984f/public_url" target="_blank">
