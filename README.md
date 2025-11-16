@@ -31,6 +31,8 @@
     <li>AWS Certified Cloud Practitioner CLF-C02 </li>
     <li>AZ-400 MS Certified Azure DevOps Engineer Expert </li>
     <li>Oracle cloud Infrastructure Certified Multicloud Architect Professional</li>
+    <li>Oracle cloud Infrastructure Certified Migration Architect Professional</li>
+    <li>Oracle cloud Infrastructure Certified Multicloud Architect Professional</li>
     <li>Azure Databricks Platform Architect</li>    
     <li>AWS Cloud Quest Cloud Practitioner</li>
     <li>AWS Cloud Quest Generative AI</li>    
@@ -54,6 +56,12 @@
     <img width="140" height="150" alt="aws-re-start-graduate" src="https://github.com/user-attachments/assets/a85f8736-17f1-48f8-b860-1100f57a9918" />
     <a href="https://credentials.databricks.com/371f0417-eefd-4892-99cc-db9ffddc3d4e#acc.CaBkVZdY" target="_blank">
       <img width="140" height="150" alt="azure databricks" src="https://github.com/user-attachments/assets/df5dbc33-4dc6-4296-a9bf-9a2af15675cf" />
+    <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=449F2873909F5D943F8FF2A64A61C2E63BEC702CBC1F0B914275B28A6239BFB8" target="_blank">
+      <img width="140" height="150" alt="OCI25MAOCP_cached_image_20251026-32-cskl80" src="https://github.com/user-attachments/assets/30fbb88e-9605-458c-8617-6ba632d268c2" />
+       <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=C584D2C4C67BF8723C0FB2DD350B1B6C7ADDE53A7F45D0B5213E8A11CA913E2C" target="_blank">
+      <img width="140" height="150" alt="OCI25DOPOCP" src="https://github.com/user-attachments/assets/da203055-4334-45fd-97e5-41f92ee36da5" />
+
+
   </a>
   <h2>📚Training</h2>
   <p>
