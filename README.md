@@ -54,11 +54,11 @@
     <a href="https://credentials.databricks.com/371f0417-eefd-4892-99cc-db9ffddc3d4e#acc.CaBkVZdY" target="_blank">
       <img width="140" height="150" alt="azure databricks" src="https://github.com/user-attachments/assets/df5dbc33-4dc6-4296-a9bf-9a2af15675cf" />
     <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=449F2873909F5D943F8FF2A64A61C2E63BEC702CBC1F0B914275B28A6239BFB8" target="_blank">
-      <img width="140" height="150" alt="OCI25MAOCP_cached_image_20251026-32-cskl80" src="https://github.com/user-attachments/assets/30fbb88e-9605-458c-8617-6ba632d268c2" />
+      <img width="130" height="130" alt="OCI25MAOCP_cached_image_20251026-32-cskl80" src="https://github.com/user-attachments/assets/30fbb88e-9605-458c-8617-6ba632d268c2" />
        <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=C584D2C4C67BF8723C0FB2DD350B1B6C7ADDE53A7F45D0B5213E8A11CA913E2C" target="_blank">
-      <img width="250" height="250" alt="OCI25DOPOCP" src="https://github.com/user-attachments/assets/da203055-4334-45fd-97e5-41f92ee36da5" />
+      <img width="350" height="350" alt="OCI25DOPOCP" src="https://github.com/user-attachments/assets/da203055-4334-45fd-97e5-41f92ee36da5" />
       <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=2D6D190766509EB87137A25A533DE18A1350020ABAFDF064D9F670B46E8ACB12" target="_blank">
-   <img width="140" height="146" alt="OCI2025MCAOCP" src="https://github.com/user-attachments/assets/d363ef0b-ca54-4f4d-ba42-9e946a5c5775" />
+   <img width="130" height="136" alt="OCI2025MCAOCP" src="https://github.com/user-attachments/assets/d363ef0b-ca54-4f4d-ba42-9e946a5c5775" />
 
 
   </a>
