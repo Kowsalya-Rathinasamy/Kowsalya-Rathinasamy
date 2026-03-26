@@ -26,9 +26,15 @@
     Kongu Arts & Science College, Bharathiar University<br>
     CGPA: 7.4 / 10
   </p>
+   <h2>📚Internship</h2>
+  <p>
+    AWS Cloud Intern – PT Orbit Ventura Indonesia<br>
+  </p>
 <h2>📜Certifications</h2>
   <ul>
+    <li>AWS Certified Solution Architect Associate SAA-C03 </li>
     <li>AWS Certified Cloud Practitioner CLF-C02 </li>
+    <li>AWS Certified Generative AI Developer Professional</li>
     <li>AZ-400 MS Certified Azure DevOps Engineer Expert </li>
     <li>Oracle cloud Infrastructure Certified Multicloud Architect Professional</li>
     <li>Oracle cloud Infrastructure Certified Migration Architect Professional</li>
@@ -43,8 +49,12 @@
   </ul>
   <!-- Credly Badge -->
   <h3>Credly Badge</h3>
+    <a href="https://www.credly.com/badges/3aae1904-ccda-4ad7-8ef0-ec03e4bc3761/public_url" target="_blank">
+    <img width="140" height="135" alt="aws-certified-solutions-architect-associate" src="https://github.com/user-attachments/assets/cba0228f-c504-4602-90ce-35a4c307f319" />
     <a href="https://www.credly.com/badges/cd7766bb-89e8-42a2-872f-059cd9f41741/public_url" target="_blank">
     <img width="140" height="135" alt="clf02" src="https://github.com/user-attachments/assets/76f469e8-447e-45cc-8e61-838b6004ddcc" />
+       <a href="https://www.credly.com/badges/2ad94751-a824-4dc2-bf24-600f977fa0ba/public_url" target="_blank">
+    <img width="140" height="135" alt="image" src="https://github.com/user-attachments/assets/2a0c5e2f-493e-4481-b7a6-ae280ce44598" />
        <a href="https://www.credly.com/badges/5cb2b11b-7c1d-4e01-95c9-3b25ac52984f/public_url" target="_blank">
    <img width="140" height="150" alt="aws-cloud-quest-cloud-practitioner" src="https://github.com/user-attachments/assets/98b274e4-2b5c-4fff-830c-bbef33fd1637" />
         <a href="https://www.credly.com/badges/02f6d831-d92b-486f-8501-341c826f16b7/public_url" target="_blank">
@@ -68,20 +78,24 @@
   </p>
   <h2>Technical Skills</h2>
   <ul>
-    <li><strong>AWS Cloud Platforms:</strong> EC2, S3, IAM, VPC, RDS, CloudWatch, Lambda, CloudFormat</li>
+    <li><strong>AWS Cloud Platforms:</strong> EC2, S3, IAM, VPC, RDS, CloudWatch, SNS, Lambda, CloudFormat</li>
     <li><strong>Azure Cloud Platforms:</strong> VM, Datafactory, Databricks, Worksation, Cloud Storage, VNet, ActiveDirectory, NSG, Cluster, LB, API Proxy</li>
     <li><strong>DevOps Tools:</strong> Git, GitHub, Docker (basic), CI/CD concepts, EKS, ECS, Azure DevOps, Boards, Repos, pipeline, Artifacts </li>
-    <li><strong>Operating Systems:</strong> Linux (Ubuntu, CentOS), Windows Server</li>
+    <li><strong>Operating Systems:</strong> Linux (Ubuntu), Windows Server</li>
     <li><strong>Programming:</strong> Python (basic), Shell Scripting, HTML, CSS,MySQL</li>
     <li><strong>Networking:</strong> NMAP, Wireshark, TCP/IP, DNS, Load Balancing, Route 53,VLans, System Admin,OSI models,IP Structure,Monitoring & Logs</li>
   </ul>
   <h2>💼Projects</h2>
   <ul>
-    <li><strong>AWS 3-Tier Web Application:</strong> Deployed VPC, EC2 (Bastion host), ELB, ASG, RDS MySQL, Dynamo DB, S3, SNS, Lambda, CI/CD pipeline Github Action (Route 53-if need DNS) Using Python.</li>
+    <li><strong>AWS 3-Tier Web Application Deployment on AWS </strong><br> Techstack: Deployed VPC, EC2 (Bastion host), ELB, ASG, RDS MySQL, Dynamo DB, S3, SNS, Lambda, CI/CD pipeline Github Action, Route 53.</li>
+     <li><strong>Sentiment Analyze of Student feedback</strong><br>Techstack: AWS Comprehend, Amazon Lightsail, Python microservices, PHP, MySQL.</li>
+     <li><strong>Web App Deploy with Docker on Azure</strong><br>Techstack: Docker, Azure Pipelines, Azure Repos, Go,HTML,CSS,MySQL</li>
     <li><strong>Automated Backup:</strong> Used Lambda and CloudWatch to automate S3 backups</li>
   </ul> 
   <h2>🏅Achievements</h2>
   <ul>
+    <li>AWS re/Start Graduate – Cultus Education & Technology Services Pvt Ltd, Bangalore. Achieved perfect score (1000/1000) in Cloud Practitioner Exam; awarded placement recognition under TNSkill and received International Internship appointment order from Honorable Deputy CM of Tamil Nadu, Thiru. Udayanidhi Stalin.</li>
+    <li>AWS AI & ML Scholars Program – Training provided by AWS & Udacity; focused on machine learning fundamentals and cloud-based AI services.</li>
     <li>Bootcamp: Cybersecurity Defence – Novitech R&D Pvt Ltd</li>
     <li>Skill Camp: First Step into Open Source with GitHub – Novitech R&D Pvt Ltd</li>
   </ul>
