@@ -3,10 +3,9 @@
   <h1 align="center">Kowsalya Here👋</h1>
   <h2 align="center"> 🥇Multi-cloud Architect Certified in AWS,Azure,Oracle </h2>
 ☁️👀 I’m interested in  Python, MySQL, RDS, Docker, Kubernetes, Ansible, APIs, Linux, Generative AI, DevOps, Networking
-
-  <h2>Contact </h2>
+  <h2>Contact</h2>
   <p>
-  📧 <a href="mailto:kowshi07@gmail.com">kowshi07@gmail.com</a> | 📞 +91-9976679245 <br>    
+  📧 <a href="mailto:kowshi07@gmail.com">kowshi07@gmail.com</a> | 📞 +91-9976679245 <br>  
     
 <a href="https://www.linkedin.com/in/kowsalya-r77" target="_blank"><img width="56" height="56" alt="LinkedIn_logo_initials" src="https://github.com/user-attachments/assets/c86f37c8-d147-4bd5-a778-c0e0c2ff454d" /> 
  </a> |
@@ -24,30 +23,28 @@
 
 <h2>🎓Education</h2>
   <p>
+    Master of Computer Application in AI and Generative AI<br>
+    SRM University<br>
     Bachelor of Science in Information Technology<br>
-    Kongu Arts & Science College, Bharathiar University<br>
+    Bharathiar University<br>
     CGPA: 7.4 / 10
-  </p>
-   <h2>📚Internship</h2>
-  <p>
-    AWS Cloud Intern – PT Orbit Ventura Indonesia<br>
   </p>
 <h2>📜Certifications</h2>
   <ul>
     <li>AWS Certified Solution Architect Associate SAA-C03 </li>
     <li>AWS Certified Cloud Practitioner CLF-C02 </li>
     <li>AWS Certified Generative AI Developer Professional</li>
-    <li>AZ-400 MS Certified Azure DevOps Engineer Expert </li>
+    <li>AWS re/Start Gradute</li>  
+    <li>AZ-400 Microsoft Certified Azure DevOps Engineer Expert</li>
     <li>Oracle cloud Infrastructure Certified Multicloud Architect Professional</li>
     <li>Oracle cloud Infrastructure Certified Migration Architect Professional</li>
     <li>Oracle cloud Infrastructure Certified DevOps Professional</li>
     <li>Azure Databricks Platform Architect</li>    
     <li>AWS Cloud Quest Cloud Practitioner</li>
-    <li>AWS Cloud Quest Generative AI</li>    
-    <li>AWS re/Start Gradute</li>      
+    <li>AWS Cloud Quest Generative AI</li>         
     <li>Docker Foundation Professional Certification</li>
     <li>ETL in Pyhton and SQL</li>
-    <li>System Administration by Microsoft and LinkedinL</li>    
+    <li>System Administration by Microsoft and Linkedin</li>    
   </ul>
   <!-- Credly Badge -->
   <h3>Credly Badge</h3>
@@ -76,7 +73,7 @@
   </a>
   <h2>📚Training</h2>
   <p>
-    AWS re/Start Gradute Program – Cultus Education & Services, Bangalore<br>
+    AWS re/Start Gradute Program – Cultus Education & Services (AWS Training Partner), Bangalore<br>
   </p>
   <h2>Technical Skills</h2>
   <ul>
