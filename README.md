@@ -1,7 +1,10 @@
 <html>
   <body>
   <h1 align="center">Kowsalya Here👋</h1>
-  <h2 align="center"> 🥇Multi-cloud Architect Certified in AWS,Azure,Oracle </h2>
+   
+  <h2 align="center"> AWS Certified Instructor | AWS Certified Solutions Architect | 🥇Multi-cloud Architect Certified in AWS,Azure,Oracle </h2>
+
+  <h2 align="center"> I’m currently working on AWS re/Start Project </h2>
 
   <h2>Contact</h2>
   <p>
@@ -18,8 +21,6 @@
 <a href="https://www.credly.com/users/kowsalya-r77" target="_blank"> <img width="56" height="56" alt="blob (2)" src="https://github.com/user-attachments/assets/a4cd49ce-7aaa-4345-8352-e7217bbacf4f" />
 </p>
 
-<h2>🎯 Career Objective</h2>
-<p> Motivated and detail-oriented IT graduate with hands-on experience in AWS cloud services, Linux administration, and cloud deployment. I am now certified in AWS, Azure, ORACLE and equipped with hands-on experience in deploying cloud infrastructure. Seeking a DevOps or Cloud Architect role to apply technical skills and contribute to scalable cloud solutions in a dynamic environment.</p>
 
 <h2>🎓Education</h2>
   <p>
@@ -27,7 +28,6 @@
     SRM University<br>
     Bachelor of Science in Information Technology<br>
     Bharathiar University<br>
-    CGPA: 7.4 / 10
   </p>
 <h2>📜Certifications</h2>
   <ul>
@@ -73,7 +73,7 @@
   </a>
   <h2>📚Training</h2>
   <p>
-    AWS re/Start Gradute Program – Cultus Education & Services (AWS Training Partner), Bangalore<br>
+    AWS Cloud Practioner/ AWS Restart | Cultus Education & Services (AWS Training Partner), Bangalore<br>
   </p>
   <h2>Technical Skills</h2>
   <ul>
@@ -93,10 +93,9 @@
   </ul> 
   <h2>🏅Achievements</h2>
   <ul>
-    <li>AWS re/Start Graduate – Cultus Education & Technology Services Pvt Ltd, Bangalore. Achieved perfect score (1000/1000) in Cloud Practitioner Exam; awarded placement recognition under TNSkill and received International Internship appointment order from Honorable Deputy CM of Tamil Nadu, Thiru. Udayanidhi Stalin.</li>
-    <li>AWS AI & ML Scholars Program – Training provided by AWS & Udacity; focused on machine learning fundamentals and cloud-based AI services.</li>
-    <li>Bootcamp: Cybersecurity Defence – Novitech R&D Pvt Ltd</li>
-    <li>Skill Camp: First Step into Open Source with GitHub – Novitech R&D Pvt Ltd</li>
+    <li>AWS Cloud Practioner | Achieved perfect score (1000/1000) in CLF-C02 Exam | awarded placement recognition under TNSkill and received appointment order from Honorable Deputy CM of Tamil Nadu, Thiru. Udayanidhi Stalin.</li>
+    <li>AWS AI & ML Scholars Program | AWS & Udacity; focused on machine learning fundamentals and cloud-based AI services.</li>
+    <li>Bootcamp: Cybersecurity Defence | Novitech R&D Pvt Ltd</li>
   </ul>
 </body>
 </html>
