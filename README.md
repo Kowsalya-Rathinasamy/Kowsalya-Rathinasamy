@@ -36,6 +36,7 @@
     <li>AWS Certified Generative AI Developer Professional</li>
     <li>AWS re/Start Gradute</li>  
     <li>AZ-400 Microsoft Certified Azure DevOps Engineer Expert</li>
+    <li>AZ-104 Microsoft Certified Azure Administrator Associate</li>
     <li>Oracle cloud Infrastructure Certified Multicloud Architect Professional</li>
     <li>Oracle cloud Infrastructure Certified Migration Architect Professional</li>
     <li>Oracle cloud Infrastructure Certified DevOps Professional</li>
@@ -49,21 +50,23 @@
   <!-- Credly Badge -->
   <h3>Credly Badge</h3>
     <a href="https://www.credly.com/badges/3aae1904-ccda-4ad7-8ef0-ec03e4bc3761/public_url" target="_blank">
-    <img width="140" height="135" alt="aws-certified-solutions-architect-associate" src="https://github.com/user-attachments/assets/cba0228f-c504-4602-90ce-35a4c307f319" />
+    <img width="120" height="125" alt="aws-certified-solutions-architect-associate" src="https://github.com/user-attachments/assets/cba0228f-c504-4602-90ce-35a4c307f319" />
     <a href="https://www.credly.com/badges/cd7766bb-89e8-42a2-872f-059cd9f41741/public_url" target="_blank">
-    <img width="140" height="135" alt="clf02" src="https://github.com/user-attachments/assets/76f469e8-447e-45cc-8e61-838b6004ddcc" />
+    <img width="120" height="125" alt="clf02" src="https://github.com/user-attachments/assets/76f469e8-447e-45cc-8e61-838b6004ddcc" />
        <a href="https://www.credly.com/badges/2ad94751-a824-4dc2-bf24-600f977fa0ba/public_url" target="_blank">
-    <img width="140" height="135" alt="image" src="https://github.com/user-attachments/assets/2a0c5e2f-493e-4481-b7a6-ae280ce44598" />
+    <img width="120" height="125" alt="image" src="https://github.com/user-attachments/assets/2a0c5e2f-493e-4481-b7a6-ae280ce44598" />
        <a href="https://www.credly.com/badges/5cb2b11b-7c1d-4e01-95c9-3b25ac52984f/public_url" target="_blank">
-   <img width="140" height="150" alt="aws-cloud-quest-cloud-practitioner" src="https://github.com/user-attachments/assets/98b274e4-2b5c-4fff-830c-bbef33fd1637" />
-        <a href="https://www.credly.com/badges/02f6d831-d92b-486f-8501-341c826f16b7/public_url" target="_blank">
-         <img width="140" height="150" alt="blob" src="https://github.com/user-attachments/assets/9a568fc5-71d9-44c2-898c-64d20bc410df" />
+   <img width="120" height="140" alt="aws-cloud-quest-cloud-practitioner" src="https://github.com/user-attachments/assets/98b274e4-2b5c-4fff-830c-bbef33fd1637" />
+         <a href="https://www.credly.com/badges/3aae1904-ccda-4ad7-8ef0-ec03e4bc3761/public_url" target="_blank">
+   <img width="120" height="140" alt="microsoft-certified-expert-badge" src="https://github.com/user-attachments/assets/d3eced55-df22-4904-952f-b20f9ac94544" />
+        <a href="[https://www.credly.com/badges/02f6d831-d92b-486f-8501-341c826f16b7/public_url](https://learn.microsoft.com/api/credentials/share/en-us/KOWSALYAR-4631/12490718C1C59AB0?sharingId=954DA832785A3025" target="_blank">
+         <img width="120" height="140" alt="blob" src="https://github.com/user-attachments/assets/9a568fc5-71d9-44c2-898c-64d20bc410df" />
         <a href="https://www.credly.com/badges/f020f5c6-ee2c-4a4c-be4a-82f364edff8b/public_url" target="_blank">
-    <img width="140" height="150" alt="aws-re-start-graduate" src="https://github.com/user-attachments/assets/a85f8736-17f1-48f8-b860-1100f57a9918" />
+    <img width="120" height="140" alt="aws-re-start-graduate" src="https://github.com/user-attachments/assets/a85f8736-17f1-48f8-b860-1100f57a9918" />
     <a href="https://credentials.databricks.com/371f0417-eefd-4892-99cc-db9ffddc3d4e#acc.CaBkVZdY" target="_blank">
-      <img width="140" height="150" alt="azure databricks" src="https://github.com/user-attachments/assets/df5dbc33-4dc6-4296-a9bf-9a2af15675cf" />
+      <img width="120" height="140" alt="azure databricks" src="https://github.com/user-attachments/assets/df5dbc33-4dc6-4296-a9bf-9a2af15675cf" />
     <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=449F2873909F5D943F8FF2A64A61C2E63BEC702CBC1F0B914275B28A6239BFB8" target="_blank">
-      <img width="130" height="130" alt="OCI25MAOCP_cached_image_20251026-32-cskl80" src="https://github.com/user-attachments/assets/30fbb88e-9605-458c-8617-6ba632d268c2" />
+      <img width="120" height="120" alt="OCI25MAOCP_cached_image_20251026-32-cskl80" src="https://github.com/user-attachments/assets/30fbb88e-9605-458c-8617-6ba632d268c2" />
        <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=C584D2C4C67BF8723C0FB2DD350B1B6C7ADDE53A7F45D0B5213E8A11CA913E2C" target="_blank">
       <img width="135" height="136" alt="OCI25DOPOCP" src="https://github.com/user-attachments/assets/147a95b7-7cb9-4429-b436-61b3730f2ef6" />
       <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=2D6D190766509EB87137A25A533DE18A1350020ABAFDF064D9F670B46E8ACB12" target="_blank">
@@ -93,7 +96,7 @@
   </ul> 
   <h2>🏅Achievements</h2>
   <ul>
-    <li>AWS Cloud Practioner | Achieved perfect score (1000/1000) in CLF-C02 Exam | awarded placement recognition under TNSkill and received appointment order from Honorable Deputy CM of Tamil Nadu, Thiru. Udayanidhi Stalin.</li>
+    <li>AWS Cloud Practioner | Achieved perfect score (1000/1000) in CLF-C02 Exam </li>
     <li>AWS AI & ML Scholars Program | AWS & Udacity; focused on machine learning fundamentals and cloud-based AI services.</li>
     <li>Bootcamp: Cybersecurity Defence | Novitech R&D Pvt Ltd</li>
   </ul>
