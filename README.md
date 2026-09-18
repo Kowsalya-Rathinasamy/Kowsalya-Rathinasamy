@@ -59,7 +59,7 @@
    <img width="120" height="140" alt="aws-cloud-quest-cloud-practitioner" src="https://github.com/user-attachments/assets/98b274e4-2b5c-4fff-830c-bbef33fd1637" />
          <a href="https://www.credly.com/badges/3aae1904-ccda-4ad7-8ef0-ec03e4bc3761/public_url" target="_blank">
    <img width="120" height="140" alt="microsoft-certified-expert-badge" src="https://github.com/user-attachments/assets/d3eced55-df22-4904-952f-b20f9ac94544" />
-        <a href="[https://www.credly.com/badges/02f6d831-d92b-486f-8501-341c826f16b7/public_url](https://learn.microsoft.com/api/credentials/share/en-us/KOWSALYAR-4631/12490718C1C59AB0?sharingId=954DA832785A3025" target="_blank">
+        <a href="https://learn.microsoft.com/api/credentials/share/en-us/KOWSALYAR-4631/12490718C1C59AB0?sharingId=954DA832785A3025" target="_blank">
          <img width="120" height="140" alt="blob" src="https://github.com/user-attachments/assets/9a568fc5-71d9-44c2-898c-64d20bc410df" />
         <a href="https://www.credly.com/badges/f020f5c6-ee2c-4a4c-be4a-82f364edff8b/public_url" target="_blank">
     <img width="120" height="140" alt="aws-re-start-graduate" src="https://github.com/user-attachments/assets/a85f8736-17f1-48f8-b860-1100f57a9918" />
