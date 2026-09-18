@@ -58,7 +58,7 @@
        <a href="https://www.credly.com/badges/5cb2b11b-7c1d-4e01-95c9-3b25ac52984f/public_url" target="_blank">
    <img width="120" height="140" alt="aws-cloud-quest-cloud-practitioner" src="https://github.com/user-attachments/assets/98b274e4-2b5c-4fff-830c-bbef33fd1637" />
       <a href="https://learn.microsoft.com/api/credentials/share/en-us/KOWSALYAR-4631/12490718C1C59AB0?sharingId=954DA832785A3025" target="_blank">
-         <img width="120" height="140" alt="microsoft-certified-expert-badge" src="https://github.com/user-attachments/assets/d3eced55-df22-4904-952f-b20f9ac94544" />
+  <img width="120" height="140" alt="image" src="https://github.com/user-attachments/assets/535e32cd-054b-4eb4-b501-abe511b7fce2" />
           <a href="https://www.credly.com/badges/b25ebdf3-7597-447c-aeec-2d40bb0efe00" target="_blank">
          <img width="120" height="140" alt="blob" src="https://github.com/user-attachments/assets/9a568fc5-71d9-44c2-898c-64d20bc410df" />
         <a href="https://www.credly.com/badges/f020f5c6-ee2c-4a4c-be4a-82f364edff8b/public_url" target="_blank">
